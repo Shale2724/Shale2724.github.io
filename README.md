@@ -10,7 +10,7 @@ Camera Effects
 
 This Is my Camera Effects Project
 
-![picture_title](picture filename?raw=true "Optional Title")
+![Seth](https://github.com/Shale2724/Shale2724.github.io/blob/master/Seth.PNG?raw=true "Optional Title")
 
 
 ***
